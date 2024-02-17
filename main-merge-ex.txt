@@ -3,3 +3,4 @@ HELLO FROM THE MAIN
 =======
 This is the file for tw merge in the main brach or the AI branch.HELLO FROM BRANCH
 >>>>>>> conflict
+Just a new addition for the rebase concept
